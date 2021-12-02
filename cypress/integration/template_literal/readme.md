@@ -6,4 +6,4 @@ You can (should) also look [here](https://developer.mozilla.org/en-US/docs/Web/J
 
 If you're interested in the particular usecase of having to import a testid from another location that you have no control over AND the testid in question is broken in some way then take a look at the utility function and fixture to see how you can edit a string at the tests end to get around the broken value you cant control.
 
-See the function working on codepen [here](https://codepen.io/steveycee/pen/NWaqrKX).
+See the utility function working on codepen [here](https://codepen.io/steveycee/pen/NWaqrKX).
