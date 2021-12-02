@@ -1,4 +1,4 @@
-# Template literals
+# Template literals & Utility functions
 
 This is a super round about way of using a template literal in cy.get, if you're just interested in template literals then take a look straight in the spec.
 
