@@ -1,4 +1,5 @@
-// I'm a utility/helper function that will add a character to the broken test id in the fixture (i know we can fix it in the fixture but lets assume that we can't.
+// I'm a utility/helper function that will add a character to the broken test id in the fixture. 
+// For the purpose of this example lets assume we don't have edit access to the fixture.
 
 import { brokenTestid } from "./fixture.js";
 
